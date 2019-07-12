@@ -1,0 +1,13 @@
+@font-face {
+font-family: "Bahnschrift"; 
+src: url("ofont.ru_Bahnschrift.ttf"); 
+font-style: normal; 
+font-weight: normal; 
+}
+
+@font-face {
+font-family: "Back_In_the_USSR"; 
+src: url("15307.otf"); 
+font-style: normal; 
+font-weight: normal; 
+} 
